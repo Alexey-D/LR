@@ -1,0 +1,10 @@
+C:\Users\21921\Downloads\Полярная СК\bin\Debug\Полярная СК.exe.config
+C:\Users\21921\Downloads\Полярная СК\bin\Debug\Полярная СК.exe
+C:\Users\21921\Downloads\Полярная СК\bin\Debug\Полярная СК.pdb
+C:\Users\21921\Downloads\Полярная СК\obj\Debug\Полярная СК.csprojAssemblyReference.cache
+C:\Users\21921\Downloads\Полярная СК\obj\Debug\Полярная_СК.Properties.Resources.resources
+C:\Users\21921\Downloads\Полярная СК\obj\Debug\Полярная СК.csproj.GenerateResource.cache
+C:\Users\21921\Downloads\Полярная СК\obj\Debug\Полярная СК.csproj.CoreCompileInputs.cache
+C:\Users\21921\Downloads\Полярная СК\obj\Debug\Полярная СК.exe
+C:\Users\21921\Downloads\Полярная СК\obj\Debug\Полярная СК.pdb
+C:\Users\21921\Downloads\Полярная СК\obj\Debug\Полярная_СК.Полярная_СК.resources
